@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://skillicons.dev/icons?i=py,js,java,html,css,git" />
+<img src="https://skillicons.dev/icons?i=py,js,springboot,html,css,git" />
 
 </div>
 
