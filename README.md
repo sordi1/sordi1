@@ -5,11 +5,11 @@
 ▹ 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍𝚎 𝙲𝚊𝚝𝚘𝚕𝚒𝚌𝚊 𝚍𝚎 𝚂𝚊𝚗𝚝𝚊 𝙲𝚊𝚝𝚊𝚛𝚒𝚗𝚊
 ▹ 🌐 𝙼𝚎𝚞𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚘𝚜 𝚎𝚜𝚝𝚊𝚘 𝚝𝚘𝚍𝚘𝚜 𝚊𝚚𝚞𝚒 𝚗𝚘 𝙶𝚒𝚝𝙷𝚞𝚋
 
-### 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙸𝚂 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂
+### 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂
 
 </div>
 
-<img src="https://skillicons.dev/icons?i=py,js,springboot,html,css,git" />
+<img src="https://skillicons.dev/icons?i=py,selenium,flask,mongodb,mysql,html,css,git" />
 
 </div>
 
