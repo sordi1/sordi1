@@ -1,17 +1,15 @@
-# GABRIEL SORDI
+## 𝚂𝙾𝙱𝚁𝙴 𝙼𝙸𝙼
 
-## SOBRE MIM
-
-▹ 🖥 Desenvolvedor Full-Stack
-▹ 💼 𝚃rabalho com Automações e 𝚁𝚘𝚋ó𝚝𝚒𝚌𝚊 𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚒𝚊𝚕 em @𝚆𝙴𝙶
-▹ 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - Universidade Católica de Santa Catarina
+▹ 🖥 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔
+▹ 💼 𝚃𝚛𝚊𝚋𝚊𝚕𝚑𝚘 𝚌𝚘𝚖 𝙰𝚞𝚝𝚘𝚖𝚊𝚌𝚘𝚎𝚜 𝚎 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚊 𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚒𝚊𝚕 𝚎𝚖 @𝚆𝙴𝙶
+▹ 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍𝚎 𝙲𝚊𝚝𝚘𝚕𝚒𝚌𝚊 𝚍𝚎 𝚂𝚊𝚗𝚝𝚊 𝙲𝚊𝚝𝚊𝚛𝚒𝚗𝚊
 ▹ 🌐 𝙼𝚎𝚞𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚘𝚜 𝚎𝚜𝚝𝚊𝚘 𝚝𝚘𝚍𝚘𝚜 𝚊𝚚𝚞𝚒 𝚗𝚘 𝙶𝚒𝚝𝙷𝚞𝚋
 
-### PRINCIPAIS TECNOLOGIAS
+### 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙸𝚂 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂
 
-▹ Python
-▹ n8n
-▹ SpringBoot
-▹ Selenium/BeautifulSoup
+▹ 𝙿𝚢𝚝𝚑𝚘𝚗
+▹ 𝚗𝟾𝚗
+▹ 𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝
+▹ 𝚂𝚎𝚕𝚎𝚗𝚒𝚞𝚖/𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕𝚂𝚘𝚞𝚙
 
-📫 Contato: gabriellucios@outlook.com.br
+📫 𝙲𝚘𝚗𝚝𝚊𝚝𝚘: 𝚐𝚊𝚋𝚛𝚒𝚎𝚕𝚕𝚞𝚌𝚒𝚘𝚜@𝚘𝚞𝚝𝚕𝚘𝚘𝚔.𝚌𝚘𝚖.𝚋𝚛
