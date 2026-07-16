@@ -1,14 +1,14 @@
-# Gabriel Sordi
+# GABRIEL SORDI
 
-Trabalho atualmente na WEG com róbotica industrial e automação de sistemas. Desenvolvendo soluções e resolvendo problemas nas horas vagas.
+## SOBRE MIM
+* 🖥 Desenvolvedor Full-Stack
+* 💼 𝚃rabalho com Automações e 𝚁𝚘𝚋ó𝚝𝚒𝚌𝚊 𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚒𝚊𝚕 em @𝚆𝙴𝙶
+* 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - Universidade Católica de Santa Catarina
+* 🌐 𝙼𝚎𝚞𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚘𝚜 𝚎𝚜𝚝𝚊𝚘 𝚝𝚘𝚍𝚘𝚜 𝚊𝚚𝚞𝚒 𝚗𝚘 𝙶𝚒𝚝𝙷𝚞𝚋
 
-**Tecnologias:** Python · FastAPI · Selenium/BeautifulSoup · Docker · 
-n8n · APIs de IA (OpenAI, Anthropic)
-
-## Projetos em destaque
-
-🔍 **gig-scout** — monitor automático que raspa, filtra e avisa por 
-e-mail, rodando sozinho na nuvem, com 28 testes automatizados
+**PRINCIPAIS TECNOLOGIAS**
+Python · Selenium/BeautifulSoup · Docker · 
+n8n
 
 
 📫 Contato: gabriellucios@outlook.com.br
