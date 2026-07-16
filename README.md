@@ -15,11 +15,9 @@
 
 </div>
 
-### 🛠 Core Skills
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,docker,postgres,mysql,sqlite,git,github,vscode,js,html,css" />
 
 </div>
 
