@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ### 🛠 Core Skills
 
 <div align="center">
@@ -25,14 +23,3 @@
 
 </div>
 
-**Automação & Dados**
-- Python (Selenium, BeautifulSoup, Pandas)
-- n8n
-- Web Scraping / Raspagem de Dados
-- Automação de Planilhas (Excel, Google Sheets)
-
-**Desenvolvimento**
-- FastAPI
-- HTML / CSS / JavaScript
-- Docker
-- Git / GitHub
